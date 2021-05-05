@@ -9,8 +9,8 @@ The project completes EDA, visualization, ML model, NLP analyis, and a simple re
 Due to limited computational power and the desire to share our work, we have performed all analysis on a Google Colab machine. 
 
 ## Code and Data
-You can run our code on Collab here: https://colab.research.google.com/drive/1HLxhqF24weq6gi6cPuggNQeGG4RydfZD?usp=sharing
-Dataset used can be found here: https://drive.google.com/drive/folders/1LlG2EqQ7BstCrH-3HEYApdp-P1XW_CGi?usp=sharing
+You can run our code on Collab here: https://colab.research.google.com/drive/1HLxhqF24weq6gi6cPuggNQeGG4RydfZD?usp=sharing \
+Dataset used can be found here: https://drive.google.com/drive/folders/1LlG2EqQ7BstCrH-3HEYApdp-P1XW_CGi?usp=sharing \
 
 ## Read our report:
 We have included our full report on problems, methodlogy, and findings in both Word text and Presentation format.
