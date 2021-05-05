@@ -13,5 +13,5 @@ You can run our code on Collab here: https://colab.research.google.com/drive/1HL
 Dataset: https://drive.google.com/drive/folders/1LlG2EqQ7BstCrH-3HEYApdp-P1XW_CGi?usp=sharing
 
 ## Read our report:
-We have included our full report on problems, methodlogy, and findings in both Word text and Presentation format.
+We have included our full report on problems, methodology, and findings in both Word text and Presentation format.
 Thank for stopping by :)
